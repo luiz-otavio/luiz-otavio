@@ -19,5 +19,5 @@ So, I have some projects and works:
   * Developer from [Aluria](https://github.com/AluriaDev);
   * Plugin Developer from [Warriors Network](http://animes.redewarriors.com/);
   * Mod Maker from [Rede Dark](https://discord.gg/r5X4TYNfat);
-  * Plugin Developer from [NationCraft](https://discord.gg/rHeAxr85h8);
+  * Plugin Developer from [NationCraft](https://discord.gg/rHeAxr85h8).
 
