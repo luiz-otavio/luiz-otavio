@@ -8,7 +8,7 @@ I learned Java (<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_234
 ### Contact
 I'm online on discord every day! Take a look in my [profile!](https://discordhub.com/profile/569169235742556200)
 
-### What are your currently works?
+### Where have you been working?
   * Developer from [Hylex](https://github.com/redestone);
   * Developer from [Aluria](https://github.com/AluriaDev);
   * Mod Maker from [Rede Dark](https://discord.gg/r5X4TYNfat);
