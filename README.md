@@ -9,7 +9,7 @@ I have been programming some languages since I started learning to program. In m
 I'm online on discord every day! Take a look in my [profile!](https://discordhub.com/profile/569169235742556200)
 
 ### What are your currently works?
-  * Developer from [Rede Stone](https://twitter.com/servidorstone?lang=pt) (Currently working on mini-games);
+  * Developer from [Hylex](https://discord.gg/zg97qkRCSq) (Currently working on mini-games);
   * Developer from [Aluria](https://github.com/AluriaDev);
   * Mod Maker from [Rede Dark](https://discord.gg/r5X4TYNfat);
   * Plugin Developer from [NationCraft](https://discord.gg/rHeAxr85h8).
