@@ -10,7 +10,5 @@ I'm online on discord every day! Take a look in my [profile!](https://discordhub
 
 ### Where have you been working?
   * Developer from [Hylex](https://github.com/redestone);
-  * Developer from [Aluria](https://github.com/AluriaDev);
-  * Mod Maker from [Rede Dark](https://discord.gg/r5X4TYNfat);
-  * Plugin Developer from [NationCraft](https://discord.gg/rHeAxr85h8).
+  * Developer from [LegacyMC](https://mc-legacy.net).
 
