@@ -1,13 +1,18 @@
-## What's up! How are you going?
-Welcome to my profile. I'm a begineer developer on workspace and I've been programming since 2019.
-Take a look at section below, I will talk more about myself! :eyes:
+# What's up! How's going?
+I think it's not your first time seeing my account, but you should don't be careful about that because I like it.
+It's more cool if the number of those profile views were higher.
 
-### What are your programming statistics?
-I learned Java (<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" width="10" height="10">) language to make my plugins in Bukkit. After few months, Lua (<img src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-lua02_icon-icons.com_50785.png" width="10" height="10">) was the first language where I made games in Roblox Studio. I also have a little knowledge in languages like Kotlin (<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" width="10" height="10">), Javascript (<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="10" height="10">) and C (<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="10" height="10">).
+![](https://komarev.com/ghpvc/?username=luiz-otavio&color=blueviolet)
 
-### Contact
-I'm online on discord every day! Take a look in my [profile!](https://discordhub.com/profile/569169235742556200)
+# About me
+I'm a brazillian child with 15 years old. I like things such as programming, languages, data-science and DevOps since August in 2019.
+To be honest, I wanna increase my programming skills in good environments with micro-services built-in Golang, Java, Lua or something like that.
+Because of my newer age, I'm not so good in team working or communicate, so those things must be hard to me.
+I like another things like math, history and physics. 
 
-### Where have you been working?
-  * Tbh, I'm not working more
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luiz-otavio&count_private=true&&show_icons=true&theme=dracula">
 
+# Reach me
+I'm not so interested in social medias, but I have some reachs that you can get me.
+
+[![GitHub](https://img.shields.io/github/followers/luiz-otavio?label=follow&style=for-the-badge)](https://github.com/luiz-otavio)
