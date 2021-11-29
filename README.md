@@ -1,5 +1,5 @@
 # What's up! How's going?
-I think it's not your first time seeing my account, but you should don't be careful about that because I like it.
+I think it's not your first time seeing that, but you should don't be careful about that because I like it.
 It's more cool if the number of those profile views were higher.
 
 ![](https://komarev.com/ghpvc/?username=luiz-otavio&color=blueviolet)
