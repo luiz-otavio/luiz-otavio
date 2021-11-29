@@ -13,6 +13,6 @@ I like another things like math, history and physics.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=luiz-otavio&count_private=true&&show_icons=true&theme=dracula">
 
 # Reach me
-I'm not so interested in social medias, but I have some reachs that you can get me.
+I'm not social, but you can teach me on
 
 [![GitHub](https://img.shields.io/github/followers/luiz-otavio?label=follow&style=for-the-badge)](https://github.com/luiz-otavio)
