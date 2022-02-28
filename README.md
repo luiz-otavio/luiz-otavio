@@ -1,6 +1,6 @@
 # What's up! How's going?
 I think it's not your first time seeing that, but I like it.
-It's kinda cool if we got more numbers about profile views :D!
+It's kinda cool if we got more numbers about profile views :D
 
 ![](https://komarev.com/ghpvc/?username=luiz-otavio&color=blueviolet)
 
