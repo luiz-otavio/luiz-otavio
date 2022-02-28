@@ -1,6 +1,6 @@
 # What's up! How's going?
-I think it's not your first time seeing that, but you should don't be careful about that because I like it.
-It's more cool if the number of those profile views were higher.
+I think it's not your first time seeing that, but I like it.
+It's kinda cool if we got more numbers about profile views :D!
 
 ![](https://komarev.com/ghpvc/?username=luiz-otavio&color=blueviolet)
 
