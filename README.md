@@ -1,4 +1,6 @@
-Currently studying soft-skilling and associated things related to [Golang](https://go.dev).
+<p align="center">
+ Currently studying soft-skilling and associated things related to <a href="https://go.dev"> Golang</a>.
+</p>
 
 <h2 align="center"> Activities </h2>
 
