@@ -4,8 +4,10 @@
 
 <h2 align="center"> Activities </h2>
 
-| <a href="https://github.com/luiz-otavio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-otavio&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Luiz Otavio's github stats" /></a> | <a href="https://github.com/luiz-otavio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-otavio&layout=compact&theme=dracula&count_private=true&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiz-otavio&show_icons=true&include_all_commits=true&hide_border=true&show=prs_merged"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-otavio&layout=compact&count_private=true&hide_border=true" />
+</a> 
 
 <h3 align="center"> Summary </h3>
 
